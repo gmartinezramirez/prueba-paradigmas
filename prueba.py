@@ -2,4 +2,4 @@
 TRUE = lambda x: lambda y: x
 FALSE = lambda x: lambda y: y
 
-
+# amo los lambda
